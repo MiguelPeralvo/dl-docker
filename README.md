@@ -7,13 +7,11 @@ If you are not familiar with Docker, but would still like an all-in-one solution
 This is what you get out of the box when you create a container with the provided image/Dockerfile:
 * Ubuntu 14.04
 * [CUDA 7.5](https://developer.nvidia.com/cuda-toolkit) (GPU version only)
-* [cuDNN v4](https://developer.nvidia.com/cudnn) (GPU version only)
+* [cuDNN v5](https://developer.nvidia.com/cudnn) (GPU version only)
 * [Tensorflow](https://www.tensorflow.org/)
-* [Caffe](http://caffe.berkeleyvision.org/)
 * [Theano](http://deeplearning.net/software/theano/)
 * [Keras](http://keras.io/)
 * [Lasagne](http://lasagne.readthedocs.io/en/latest/)
-* [Torch](http://torch.ch/) (includes nn, cutorch, cunn and cuDNN bindings)
 * [iPython/Jupyter Notebook](http://jupyter.org/) (including iTorch kernel)
 * [Numpy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Scikit Learn](http://scikit-learn.org/), [Matplotlib](http://matplotlib.org/)
 * A few common libraries used for deep learning
