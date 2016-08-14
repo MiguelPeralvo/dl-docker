@@ -103,11 +103,9 @@ No. The provided all-in-one solution is useful if you have dependencies on multi
 
 The Docker philosophy is to build a container for each logical task/framework. If we followed this, we should have one container for each of the deep learning frameworks. This minimizes clashes between frameworks and is easier to maintain as things evolve. In fact, if you only intend to use one of the frameworks, or at least use only one framework at a time, follow this approach. You can find Dockerfiles for individual frameworks here:
 * [Tensorflow Docker](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tools/docker)
-* [Caffe Docker](https://github.com/BVLC/caffe/tree/master/docker)
 * [Theano Docker](https://github.com/Kaixhin/dockerfiles/tree/master/cuda-theano)
 * [Keras Docker](https://github.com/Kaixhin/dockerfiles/tree/master/cuda-keras/cuda_v7.5)
 * [Lasagne Docker](https://github.com/Kaixhin/dockerfiles/tree/master/cuda-lasagne/cuda_v7.5)
-* [Torch Docker](https://github.com/Kaixhin/dockerfiles/tree/master/cuda-torch)
 
 ## FAQs
 ### Performance
