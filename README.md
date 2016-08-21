@@ -12,7 +12,7 @@ This is what you get out of the box when you create a container with the provide
 * [Theano](http://deeplearning.net/software/theano/)
 * [Keras](http://keras.io/)
 * [Lasagne](http://lasagne.readthedocs.io/en/latest/)
-* [iPython/Jupyter Notebook](http://jupyter.org/) (including iTorch kernel)
+* [iPython/Jupyter Notebook](http://jupyter.org/)
 * [Numpy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Scikit Learn](http://scikit-learn.org/), [Matplotlib](http://matplotlib.org/)
 * A few common libraries used for deep learning
 
